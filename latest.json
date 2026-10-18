@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1.1",
+  "versionCode": 4,
+  "versionName": "1.1.2",
   "apkUrl": "https://raw.githubusercontent.com/Tgm07/castor/main/app.apk",
-  "sha256": "74f426b944311cf67f63f083109804d90ed48cc618aa47fe16fa6d6adecd7a14",
-  "notes": "Improves automatic update completion on newer Android versions.",
+  "sha256": "91e1fdd8b54c386e1f9c2ed388365e15b2123b89bd0ce984ec342ea18091f564",
+  "notes": "Deletes the verified installer APK automatically after a successful update.",
   "required": false
 }
